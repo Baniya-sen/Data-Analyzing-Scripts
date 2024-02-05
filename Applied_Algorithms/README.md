@@ -11,9 +11,16 @@ The Applied Algorithms project folder contains implementations of various algori
 
 3. Sorting Algorithms, Like Selection sort, Bubble sort, Merge sort, and Quick sort applied and timed.
 
+4. Many Data manipulation, cipher algorithms, credit-checksum, Linked-list inheritance, readability grading, and Vote casting with run-off, etc programs written in C language.
+   Compile and run C programs:
+   ```C
+      gcc -o creditcard_checksum creditcard_checksum.c
+      creditcard_checksum
+
 ## Technologies Used
 
 This project utilizes:
-- List manipulation for data processing
+- `List` manipulation for data processing
 - Sorting algorithms for optimization
+- Optimized `while` loops in C.
 - Comprehensive algorithms for concise code
