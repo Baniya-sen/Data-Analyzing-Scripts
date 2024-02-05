@@ -16,6 +16,7 @@ The Applied Algorithms project folder contains implementations of various algori
    ```C
       gcc -o creditcard_checksum creditcard_checksum.c
       creditcard_checksum
+   ```
 
 ## Technologies Used
 
